@@ -1,0 +1,9 @@
+.completed {
+    text-decoration: line-through;
+    color: gray; /* Optional: Change color for completed tasks */
+}
+
+.completed-label {
+    text-decoration: line-through;
+    color: gray; /* Optional: Change color for completed label */
+}
